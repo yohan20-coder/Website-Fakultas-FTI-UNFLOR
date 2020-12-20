@@ -1,0 +1,28 @@
+ /* #kotak{
+    border: 3px solid rgb(47, 1, 85);
+  } */
+
+  #tabel thead th{
+    background : #f6f893fb;
+    border: 1px solid rgb(47, 1, 85)!important;
+  }
+
+#kotak #ul ul{
+    background: #f6f893fb !important;
+    border-top: 2px solid rgb(47, 1, 85);
+    border-left: 2px solid rgb(47, 1, 85);
+    border-right: 2px solid rgb(47, 1, 85);
+    border-bottom: 1px solid rgb(47, 1, 85);
+    border-radius : 9px;
+  }
+  #kotak a.nav-link{
+    color : #02083f;
+    font-size: larger;
+  }
+  
+  table th{
+    border: 1px solid rgb(47, 1, 85)!important;
+  }
+  table td{
+    border: 1px solid rgb(47, 1, 85)!important;
+  }
